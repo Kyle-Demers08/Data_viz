@@ -54,7 +54,7 @@ The graph shows what might be the main reasoning behind Disney not being the num
 
 Looking outside of variation in movie ratings, we can look at overall movie quality. Rotten Tomatoes is a movie review website which is a well trusted recommendation resource that provides an aggregate score of movies. We can look at all of the movies each service has which may be able to demonstrate how each service is different.
 
-<img width="391" alt="image" src="https://user-images.githubusercontent.com/112887807/208534805-5be5ea86-fb62-41ca-bfb2-d8e180d6ebfd.png">
+<img width="398" alt="image" src="https://user-images.githubusercontent.com/112887807/208537566-2aa8ad13-b0e7-44e0-b70c-651ceb74c417.png">
 
 Now we can see what may draw specific customers to each streaming service. Netflix has some of the absolute greatest movies throughout all four of these streaming services. This can be seen by a large number of outliers that appear to be beyond any of the other services movies. This means that Netflix, according to Rotten Tomatoes, has the top heavy best movies of these four streaming services. With Hulu, we can see that on average, a consumer will get a better movie than any other streaming service. Disney, as discussed before, prioritizes kids movies and most are rated rather well. Prime doesn't necessarily win in any statistical category, but it does have the most movies.
 
