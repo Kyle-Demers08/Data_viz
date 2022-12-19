@@ -14,3 +14,5 @@ Streaming services make profit by charging their customers a subscription price.
  
 To demonstrate how this has changed, It is important to look at the before and after of content spend over recent years.
 
+<img width="541" alt="image" src="https://user-images.githubusercontent.com/112887807/208494661-7a1d14c1-327e-474b-9e64-7bbe1d6cc5bc.png">
+
