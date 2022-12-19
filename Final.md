@@ -32,11 +32,11 @@ Now we can look at the change these companies have made after the surge of new s
 *Note: HBO max was released after 2020 so no data is present.*
 
 We now see that Netflix and Hulu had an immediate reaction to increase content spend as more streaming services entered the market. This increase in spend is either due to increasing cost to video rights or increase in spend for originals. Either way, both of these services had an immediate reaction to increase spend to retain attraction to their service. 
-Prime Video on the other hand decided to continue with it's normal spending staying at roughly the same increasing trend as before. Disney now leads content spend and HBO is spending the same as Netflix. Neither of these should be suprising as Disney has always been head of video entertainment and HBO (owned by Warner Bros) has been another massive name.
+Prime Video on the other hand decided to continue with it's normal spending, staying at roughly the same increasing trend as before. Disney now leads content spend and HBO is spending the same as Netflix. Neither of these should be suprising as Disney has always been a big spender of video entertainment and HBO (owned by Warner Bros) has been another massive name.
 
 ## Has the change in business strategy been successful? Are people still interested in the original streaming services?
 
-In order to look at the success of the companies in the streaming wars, we need to look ask the consumers who they think is the best. There isn't a stat or metric that a company can display to show who, "is the best", the only metric to determine that are the consumers themselves. According to a poll done by the observer asking, "If you could only pick one service, who would it be?" We are able to determine the success. 
+In order to look at the success of the companies in the streaming wars, we need to ask the consumers who they think is the best. There isn't a stat or metric that a company can display to show who, "is the best," the only metric to determine that are the consumers themselves. According to a poll done by the observer asking, "If you could only pick one service, who would it be?" We are able to determine the success. 
 
 <img width="299" alt="image" src="https://user-images.githubusercontent.com/112887807/208512892-322b35c9-8c6d-4e3f-a6f2-d3fa56215948.png">
 
