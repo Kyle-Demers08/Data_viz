@@ -7,6 +7,7 @@ I want to explore
  1) How have Hulu, Netflix, and Prime changed their business strategy since the introduction of new competitors?
  2) Has the change in business strategy been successful? Are people still interested in the original streaming services?
  3) What are the differences in the main streaming services?
+ 4) If I wanted to enter the streaming industry, what would be the best strategy?
  
  ### How have Hulu, Netflix, and Prime changed their business strategy since the introduction of new competitors?
  
@@ -22,6 +23,7 @@ We can see the following results. Netflix and Prime are averaging around 20% inc
 
 Now we can look at the change these companies have made after the surge of new streaming services.
 
-<img width="524" alt="image" src="https://user-images.githubusercontent.com/112887807/208501131-214b149e-28a7-4685-8c6a-90f8223dd5b5.png">
+<img width="470" alt="image" src="https://user-images.githubusercontent.com/112887807/208504713-55db50d5-7069-4c15-8c24-820ab0e43bbf.png">
 
-When looking at 
+We now see that Netflix and Hulu had an immediate reaction to increase content spend as more streaming services entered the market. This increase in spend is either due to increasing cost to video rights or increase in spend for originals. Either way, both of these services had an immediate reaction to increase spend to retain attraction to their service. 
+Prime video on the other hand decided to continue with it's normal spending staying at roughly the same increasing trend as before. Disney now leads content spend and HBO is spending the same as Netflix. Neither of these should be suprising as Disney has always been head of video entertainment and HBO (owned by Warner Bros) has been another massive name.
