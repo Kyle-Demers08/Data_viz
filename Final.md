@@ -14,5 +14,6 @@ Streaming services make profit by charging their customers a subscription price.
  
 To demonstrate how this has changed, It is important to look at the before and after of content spend over recent years.
 
-<img width="541" alt="image" src="https://user-images.githubusercontent.com/112887807/208494661-7a1d14c1-327e-474b-9e64-7bbe1d6cc5bc.png">
+<img width="565" alt="image" src="https://user-images.githubusercontent.com/112887807/208498928-5537bda5-9295-4c79-bed7-a7dd9a7e5c35.png">
 
+On the left we can see the overall content spend in billions of dollars. Most of the companies are on a strong upward trajectory with the exception of netflix in 2020 which was impacted strongly by the pandemic. Netflix did however plan on spending $17 billion which would have fit its previous trend. It should be noted that Hulu is only available in the US and Japan so their content spend is expected to be much lower. To account for this, the percent change chart on the right show by how much these services are increasing their spending relative to the last year. 
