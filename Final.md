@@ -1,4 +1,6 @@
-Does the project have a clearly stated goal/question(s)?
+# Streaming Wars
+### Kyle Demers
+### Due: 12/20/2020
 
 Netflix, Amazon Prime, and Hulu were the pioneers of the streaming service industry. Since around 2020 competition has increased dramatically. Many streaming services have been introduced leading to these pioneers losing their rights to movies or losing their customers to other services. 
 
