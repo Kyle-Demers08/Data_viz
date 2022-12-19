@@ -21,7 +21,7 @@ To demonstrate how this has changed, It is important to look at the before and a
 
 <img width="650" alt="image" src="https://user-images.githubusercontent.com/112887807/208532364-bf61fe23-04dd-45fa-98c6-838d46e35515.png">
 
-On the left we can see the overall content spend in billions of dollars. Most of the companies are on a strong upward trajectory with the exception of netflix in 2020 which was impacted strongly by the pandemic. Netflix did however plan on spending $17 billion which would have fit its previous trend. It should be noted that Hulu is only available in the US and Japan so their content spend is expected to be much lower. To account for this, the percent change chart on the right show by how much these services are increasing their spending relative to the last year. 
+On the left we can see the overall content spend in billions of dollars. Most of the companies are on a strong upward trajectory with the exception of netflix in 2020 which was impacted strongly by the pandemic. Netflix did however plan on spending $17 billion which would have fit its previous trend. It should be noted that Hulu is only available in the US and Japan so their content spend is expected to be much lower. To account for this, the percent change chart on the right shows how much these services are increasing their spending relative to the last year. 
 
 We can see the following results. Netflix and Prime are averaging around 20% increase in content spend each year. Hulu is recently begining to increase it's content spend in the last few years. 
 
