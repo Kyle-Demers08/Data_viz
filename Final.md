@@ -1,7 +1,9 @@
 # Streaming Wars
 ### Kyle Demers
-### Due: 12/20/2020
+**Due: 12/20/2020**
+---
 
+## What are the streaming wars?
 Netflix, Amazon Prime, and Hulu were the pioneers of the streaming service industry. Since around 2020 competition has increased dramatically. Many streaming services have been introduced leading to these pioneers losing their rights to movies or losing their customers to other services. 
 
 I want to explore 
