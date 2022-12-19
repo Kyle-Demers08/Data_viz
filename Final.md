@@ -4,18 +4,18 @@
 ---
 
 ## What are the streaming wars?
-Netflix, Amazon Prime, and Hulu were the pioneers of the streaming service industry. Since around 2020 competition has increased dramatically. Many streaming services have been introduced leading to these pioneers losing their rights to movies or losing their customers to other services. 
+Netflix, Amazon Prime, and Hulu were the pioneers of the streaming service industry with Hulu being the last to join since 2007. These streaming services grew incredibly popular in the oncoming years and large media entertainment companies noticed an opportunity. In around 2020 competition increased dramatically with the introduction of Disney +, Apple Tv +, HBO Max(Warner Bros), and Peacock(NBC) all launching withing a year of each other. With many streaming services being introduced, these pioneers are losing their rights to movies or losing their customers to other services. 
 
-I want to explore 
+I want to explore the following with respect to the streaming wars:
 
  1) How have Hulu, Netflix, and Prime changed their business strategy since the introduction of new competitors?
  2) Has the change in business strategy been successful? Are people still interested in the original streaming services?
- 3) What are the differences in the main streaming services?
+ 3) What are the differences in the main streaming services now?
  4) If I wanted to enter the streaming industry, what would be the best strategy?
  
  ## How have Hulu, Netflix, and Prime changed their business strategy since the introduction of new competitors?
  
-Streaming services make profit by charging their customers a subscription price. This subscription price leads to the streaming services paying wages, rights to movies, content spend and many more. Obviously these streaming services can't just increase subscription price in order to just make more money to counteract the fleeing customers. This would just cause more customers to leave at a certain point. To maintain customers or win new ones, these original streaming services need to increase their content spend. 
+Streaming services make profit by charging their customers a subscription price. This subscription price leads to the streaming services paying for wages, rights to movies, content spend and much more. Obviously these streaming services can't just increase subscription price in order to just make more money to counteract the fleeing customers. This would just cause more customers to leave at a certain point. To maintain customers or win new ones, the original streaming services needed to increase their content spend. 
  
 To demonstrate how this has changed, It is important to look at the before and after of content spend over recent years.
 
