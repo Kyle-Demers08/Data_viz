@@ -19,7 +19,7 @@ Streaming services make profit by charging their customers a subscription price.
  
 To demonstrate how this has changed, It is important to look at the before and after of content spend over recent years.
 
-<img width="565" alt="image" src="https://user-images.githubusercontent.com/112887807/208498928-5537bda5-9295-4c79-bed7-a7dd9a7e5c35.png">
+<img width="650" alt="image" src="https://user-images.githubusercontent.com/112887807/208532364-bf61fe23-04dd-45fa-98c6-838d46e35515.png">
 
 On the left we can see the overall content spend in billions of dollars. Most of the companies are on a strong upward trajectory with the exception of netflix in 2020 which was impacted strongly by the pandemic. Netflix did however plan on spending $17 billion which would have fit its previous trend. It should be noted that Hulu is only available in the US and Japan so their content spend is expected to be much lower. To account for this, the percent change chart on the right show by how much these services are increasing their spending relative to the last year. 
 
@@ -54,7 +54,7 @@ The graph shows what might be the main reasoning behind Disney not being the num
 
 Looking outside of variation in movie ratings, we can look at overall movie quality. Rotten Tomatoes is a movie review website which is a well trusted recommendation resource that provides an aggregate score of movies. We can look at all of the movies each service has which may be able to demonstrate how each service is different.
 
-<img width="353" alt="image" src="https://user-images.githubusercontent.com/112887807/208523169-79e2b146-38a7-4e2f-9f7d-e40f02ad7c39.png">
+<img width="391" alt="image" src="https://user-images.githubusercontent.com/112887807/208534805-5be5ea86-fb62-41ca-bfb2-d8e180d6ebfd.png">
 
 Now we can see what may draw specific customers to each streaming service. Netflix has some of the absolute greatest movies throughout all four of these streaming services. This can be seen by a large number of outliers that appear to be beyond any of the other services movies. This means that Netflix, according to Rotten Tomatoes, has the top heavy best of these four streaming services. With Hulu, we can see that on average, a consumer will get a better movie than any other streaming service. Disney, as discussed before, prioritizes kids movies and most are rated rather well. Prime doesn't necessarily win in any statistical category, but it does have the most movies.
 
