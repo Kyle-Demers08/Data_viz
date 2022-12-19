@@ -68,6 +68,7 @@ What we've seen from the leading streaming services is something hard to achieve
 
 **Diverse Movie Target Audience:** Having a diverse target audience allows for a wider spread of age ranges to enjoy movies. Having high content spend in only one age range will not be best way to be the number one service provider.
 
+---
 
 ### Extra:
 
@@ -77,3 +78,4 @@ What we've seen from the leading streaming services is something hard to achieve
 
 [ipynb](https://github.com/Kyle-Demers08/Data_viz/blob/main/Kyle_Demers_Final.ipynb)
 
+For Ron: Didn't use the parallel coordinate plots as I didn't think it flowed with the report as well.
