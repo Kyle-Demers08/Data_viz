@@ -53,3 +53,13 @@ Looking outside of variation in movie ratings, we can look at overall movie qual
 <img width="353" alt="image" src="https://user-images.githubusercontent.com/112887807/208523169-79e2b146-38a7-4e2f-9f7d-e40f02ad7c39.png">
 
 Now we can see what may draw specific customers to each streaming service. Netflix has some of the absolute greatest movies throughout all four of these streaming services. This can be seen by a large number of outliers that appear to be beyond any of the other services movies. This means that Netflix, according to Rotten Tomatoes, has the top heavy best of these four streaming services. With Hulu, we can see that on average, a consumer will get a better movie than any other streaming service. Disney, as discussed before, prioritizes kids movies and most are rated rather well. Prime doesn't necessarily win in any statistical category, but it does have the most movies.
+
+## If I wanted to enter the streaming industry, what would be the best strategy?
+
+What we've seen from the leading streaming services is something hard to achieve. In order to enter the streaming wars, we've seen success in the following areas. 
+
+**High Content Spend:** People are paying a subscription price every month to recieve high quality video entertainment. If a company isn't willing to spend more than other companies to have high quality entertainment available, they won't be a favorite. 
+
+**High Quality Movies:** We've seen with prime that if you don't have the best movies or on average the best movies, you won't be as successful. It isn't enough to just have a lot of movies, the content spend needs to produce high quality.
+
+**Diverse Movie Target Audience:** Having a diverse target audience allows for a wider spread of age ranges to enjoy movies. Having high content spend in only one age range will not be best way to be the number one service provider.
