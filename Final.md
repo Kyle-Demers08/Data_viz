@@ -67,3 +67,13 @@ What we've seen from the leading streaming services is something hard to achieve
 **High Quality Movies:** We've seen with prime that if you don't have the best movies or on average the best movies, you won't be as successful. It isn't enough to just have a lot of movies, the content spend needs to produce high quality.
 
 **Diverse Movie Target Audience:** Having a diverse target audience allows for a wider spread of age ranges to enjoy movies. Having high content spend in only one age range will not be best way to be the number one service provider.
+
+
+### Extra:
+
+[Data Used](https://github.com/Kyle-Demers08/Data_viz/tree/main/Data)
+
+[Pictures Used](https://github.com/Kyle-Demers08/Data_viz/tree/main/Pictures)
+
+[ipynb](https://github.com/Kyle-Demers08/Data_viz/blob/main/Kyle_Demers_Final.ipynb)
+
