@@ -1,6 +1,7 @@
 # Streaming Wars
 ### Kyle Demers
 **Due: 12/20/2020**
+
 ---
 
 ## What are the streaming wars?
