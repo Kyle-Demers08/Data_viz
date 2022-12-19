@@ -25,6 +25,7 @@ Now we can look at the change these companies have made after the surge of new s
 
 <img width="470" alt="image" src="https://user-images.githubusercontent.com/112887807/208504713-55db50d5-7069-4c15-8c24-820ab0e43bbf.png">
 
+**Note:** HBO max was released after 2020 so no data is present
 We now see that Netflix and Hulu had an immediate reaction to increase content spend as more streaming services entered the market. This increase in spend is either due to increasing cost to video rights or increase in spend for originals. Either way, both of these services had an immediate reaction to increase spend to retain attraction to their service. 
 Prime video on the other hand decided to continue with it's normal spending staying at roughly the same increasing trend as before. Disney now leads content spend and HBO is spending the same as Netflix. Neither of these should be suprising as Disney has always been head of video entertainment and HBO (owned by Warner Bros) has been another massive name.
 
@@ -34,12 +35,12 @@ In order to look at the success of the companies in the streaming wars, we need 
 
 <img width="299" alt="image" src="https://user-images.githubusercontent.com/112887807/208512892-322b35c9-8c6d-4e3f-a6f2-d3fa56215948.png">
 
+In the last section we talked about how Netflix and Hulu both adjusted for new competitors by increasing their content spend while Prime kept increasing at it's previous rate. Here we may see a consequence of that as both Netlfix and Hulu lead in consumer preference while Prime is at 5th. The combination of Increasing content spend and the mere exposure effect are likely the reason Netflix and Hulu are leaders. For Netflix and Hulu to be able to outperform video entertainment giants of Disney and Warner Bros (HBO), it is safe to say they have dealt with the transition of competition well and have had a successful business strategy.
 
 
 
 
-
-
+What is intriguing is the amount of content spend that DIsney is using, and the lack of relative success they were having.
 
 
 
