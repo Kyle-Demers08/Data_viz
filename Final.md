@@ -32,7 +32,7 @@ Now we can look at the change these companies have made after the surge of new s
 *Note: HBO max was released after 2020 so no data is present.*
 
 We now see that Netflix and Hulu had an immediate reaction to increase content spend as more streaming services entered the market. This increase in spend is either due to increasing cost to video rights or increase in spend for originals. Either way, both of these services had an immediate reaction to increase spend to retain attraction to their service. 
-Prime video on the other hand decided to continue with it's normal spending staying at roughly the same increasing trend as before. Disney now leads content spend and HBO is spending the same as Netflix. Neither of these should be suprising as Disney has always been head of video entertainment and HBO (owned by Warner Bros) has been another massive name.
+Prime Video on the other hand decided to continue with it's normal spending staying at roughly the same increasing trend as before. Disney now leads content spend and HBO is spending the same as Netflix. Neither of these should be suprising as Disney has always been head of video entertainment and HBO (owned by Warner Bros) has been another massive name.
 
 ## Has the change in business strategy been successful? Are people still interested in the original streaming services?
 
