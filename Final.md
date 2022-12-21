@@ -5,7 +5,7 @@
 ---
 
 ## What are the streaming wars?
-Netflix, Amazon Prime, and Hulu were the pioneers of the streaming service industry with Hulu being the last to join since 2007. These streaming services grew incredibly popular in the oncoming years and large media entertainment companies noticed an opportunity. In around 2020 competition increased dramatically with the introduction of Disney +, Apple Tv +, HBO Max(Warner Bros), and Peacock(NBC) all launching withing a year of each other. With many streaming services being introduced, these pioneers are losing their rights to movies or losing their customers to other services. 
+Netflix, Amazon Prime, and Hulu were the pioneers of the streaming service industry with Hulu being the last to join since 2007. These streaming services grew incredibly popular in the oncoming years and large media entertainment companies noticed an opportunity. Around 2020 competition increased dramatically with the introduction of Disney +, Apple Tv +, HBO Max(Warner Bros), and Peacock(NBC) all launching withing a year of each other. With many streaming services being introduced, these pioneers are losing their rights to movies/tv shows or losing their customers to other services. 
 
 I want to explore the following with respect to the streaming wars:
 
@@ -37,7 +37,7 @@ Prime Video on the other hand decided to continue with it's normal spending, sta
 
 ## Has the change in business strategy been successful? Are people still interested in the original streaming services?
 
-In order to look at the success of the companies in the streaming wars, we need to ask the consumers who they think is the best. There isn't a stat or metric that a company can display to show who, "is the best," the only metric to determine that are the consumers themselves. According to a poll done by the observer asking, "If you could only pick one service, who would it be?" We are able to determine the success. 
+In order to look at the success of the companies in the streaming wars, we need to ask the consumers who they think is the best. There isn't a stat or metric that a company can display to show who, "is the best," the only metric to determine that are the consumers themselves. According to a poll done by the observer asking, "If you could only pick one streaming service, who would it be?" We are able to determine the success. 
 
 <img width="299" alt="image" src="https://user-images.githubusercontent.com/112887807/208512892-322b35c9-8c6d-4e3f-a6f2-d3fa56215948.png">
 
@@ -63,7 +63,7 @@ Now we can see what may draw specific customers to each streaming service. Netfl
 
 What we've seen from the leading streaming services is something hard to achieve. In order to enter the streaming wars, we've seen success in the following areas. 
 
-**High Content Spend:** People are paying a subscription price every month to recieve high quality video entertainment. If a company isn't willing to spend more than other companies to have high quality entertainment available, they won't be a favorite. 
+**High Content Spend:** People are paying a subscription price every month to recieve high quality video entertainment. If a company isn't willing to spend more than other companies to have high quality entertainment available, they won't be a favorite. In order to be competitive, a new service would need to have billions of dollars they are able to spend.
 
 **High Quality Movies:** We've seen with prime that if you don't have the best movies or on average the best movies, you won't be as successful. It isn't enough to just have a lot of movies, the content spend needs to produce high quality.
 
